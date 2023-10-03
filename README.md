@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Quy Nguyen (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  rood (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  responsive (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.coolblue.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/scherm 1.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/scherm 2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -121,7 +121,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb nog niet veel vooruitgang gemaakt maar de code die ik heb is wel goed uitgewerkt en overzichtelijk.
 
 
   ### Agenda voor meeting
@@ -201,19 +201,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/scherm 3.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  overzichtelijke code maken waar ik niet in verdwaald raak. Ik heb ook veel meer manieren geleerd hoe ik een website responsive kan maken.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  sommige elementen zijn nog niet goed vormgegeven. Dit kwam omdat ik te weinig tijd had en vaak had besloten om aan een andere gedeelte van de website te werken terwijl ik nog ergens anders mee bezig was. Ik wou te veel tegelijkertijd af hebben.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/scherm 4.png" width="375px" alt="bummer">
 </details>
 
 
@@ -229,8 +229,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://css-tricks.com/snippets/css/complete-guide-grid/
+  2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  3. https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit
+  4. https://www.programmingbasic.com/horizontal-scrolling-div-with-arrows
+  5. https://www.w3schools.com/cssref/css_selectors.php
+  6. https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type
 
 </details>
